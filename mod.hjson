@@ -1,5 +1,6 @@
 displayName: "Lively Erekir"
 name: "erekir-life"
+description: "a mod that adds life to mindustry's Erekir"
 author: poiu-y
 version: 0.1
 minGameVersion: 153
