@@ -1,1 +1,3 @@
 a mod that adds life to mindustry's Erekir
+
+DO NOT DOWNLOAD THIS YET IT IS JUST THE FRAMEWORK RIGHT NOW AND DOESN'T DO ANYTHING YET
