@@ -1,6 +1,6 @@
 displayName: "Lively Erekir"
 name: "erekir-life"
-description: "a mod that adds life to mindustry's Erekir"
+description: "a mod that adds life to mindustry's Erekir, edits existing maps, if the maps get updated then this mod will reflect the old version, as it directly replaces maps with altered versions that contain modded content, [red]might corrupt saves if uninstalled, [][gold]you have been warned[]" 
 author: poiu-y
 version: 0.0.0
 minGameVersion: 153
