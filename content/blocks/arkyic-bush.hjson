@@ -11,3 +11,4 @@ magMin: 5.0
 magMax: 15.0
 timeRange: 40.0
 spread: 0.0
+color: 3f523d
