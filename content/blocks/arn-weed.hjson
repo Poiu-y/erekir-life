@@ -1,0 +1,5 @@
+placeableLiquid: true
+name: "ArnWeed"
+variants: 3
+type: SeaWeed
+placeableLiquid: true
