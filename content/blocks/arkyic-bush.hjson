@@ -1,0 +1,13 @@
+name: "Arkyic Bush"
+type: SeaBush
+botRegion: arkyic-bush-bot
+lobesMin: 5
+lobesMax: 7
+botAngle: 60
+origin: 0.1
+sclMin: 30.0
+sclMax: 50.0
+magMin: 5.0
+magMax: 15.0
+timeRange: 40.0
+spread: 0.0
