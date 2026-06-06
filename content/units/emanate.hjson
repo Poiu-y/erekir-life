@@ -1,0 +1,17 @@
+"type":"legs"
+"flying":"false"
+"lockLegBase":"true"
+"legContinuousMove":"true"
+"speed":1.0,"legRegion":"cleroi-leg"
+"legBaseRegion":"cleroi-leg-base"
+"legPhysicsLayer":"false"
+"legMinLength":0.5
+"legForwardScl":0.6
+"legMoveSpace":1.5
+"baseLegStraightness":50.0
+"legBaseOffset":4.0
+"legExtension":2.0
+"legLength":15.0
+"legLengthScl":0.95
+"segmentUnits":3.0
+"segmentUnit":"emanate"
